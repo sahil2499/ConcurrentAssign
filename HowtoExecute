@@ -1,0 +1,9 @@
+I have the following files 
+Vacuum.java : Contains the code 
+Robot.txt 
+RoomFile.txt 
+Linux.sh for shell script to run linux file 
+windows.bat for running in linux 
+Make sure you download these and files and keep them in same folder since java file takes input from the other txt files . I have used vscode . Kindly run the java file . 
+
+Run the shell file in the terminal based on your system . 
